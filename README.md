@@ -27,14 +27,12 @@
 | **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Linux` |
 
 ---
-### 📊 Coding Activity & LeetCode Progress
+### 📊 LeetCode Progress & Contest Metrics
 
 <p align="center">
-
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Aditya_Khaira?theme=tokyonight" alt="LeetCode Stats" width="49%" />
+  <!-- Core Solved Statistics Card -->
+  <img src="https://leetcard.jacoblin.cool/Aditya_Khaira?theme=dark" alt="LeetCode Solved Stats" width="48%" />
   
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya_khaira&theme=github-dark&area=true" alt="GitHub Activity Graph" width="49%" />
-</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhaira&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <!-- Live Contest Attendance & Rating Card -->
+  <img src="https://leetcard.jacoblin.cool/Aditya_Khaira?ext=contest&theme=dark" alt="LeetCode Contest Stats" width="48%" />
 </p>
