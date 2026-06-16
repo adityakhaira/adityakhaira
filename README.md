@@ -27,22 +27,14 @@
 | **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Linux` |
 
 ---
-### 📈 My GitHub Stats
+### 📊 Coding Activity & LeetCode Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%" />
+
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Aditya_Khaira?theme=tokyonight" alt="LeetCode Stats" width="49%" />
+  
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya_khaira&theme=github-dark&area=true" alt="GitHub Activity Graph" width="49%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhaira&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
 </p>
