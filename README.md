@@ -29,10 +29,7 @@
 ---
 ### 📊 LeetCode Progress & Contest Metrics
 
+
 <p align="center">
-  <!-- Core Solved Statistics Card -->
-  <img src="https://leetcard.jacoblin.cool/Aditya_Khaira?theme=dark" alt="LeetCode Solved Stats" width="48%" />
-  
-  <!-- Live Contest Attendance & Rating Card -->
-  <img src="https://leetcard.jacoblin.cool/Aditya_Khaira?ext=contest&theme=dark" alt="LeetCode Contest Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/ADITYA_KHAIRA?ext=contest&theme=dark" alt="LeetCode Contest & Solved Stats" width="65%" />
 </p>
