@@ -10,11 +10,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Current Status:** 18-year-old developer passionate about building efficient algorithms and clean user interfaces.
+- 🎓 **Current Status:** 23-year-old developer passionate about building efficient algorithms and clean user interfaces.
 - 🟡 **LeetCode:** Actively solving problems daily to sharpen my algorithmic thinking.
 - 🟢 **GeeksforGeeks:** Diving deep into Core CS fundamentals and Data Structures.
 - 🛠️ **Current Focus:** Master Data Structures & Algorithms (DSA) and building full-stack projects.
-- 📫 **How to reach me:** [Your Email or LinkedIn Link]
+- 📫 **How to reach me:** adityakhaira.sde@gmail.com
 
 ---
 
