@@ -1,4 +1,4 @@
-# Hi there, I'm [Aditya Khaira]! 👋
+# Hi there, I'm Aditya Khaira! 👋
 
 ### 🚀 Aspiring Software Engineer | Problem Solver | Data Structures Enthusiast
 
@@ -6,11 +6,15 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG" />
 </p>
+
+---
+
 ### 🐍 My Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityakhaira/adityakhaira/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -31,8 +35,8 @@
 | **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Linux` |
 
 ---
-### 📊 LeetCode Progress & Contest Metrics
 
+### 📊 LeetCode Progress & Contest Metrics
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ADITYA_KHAIRA?ext=contest&theme=dark" alt="LeetCode Contest & Solved Stats" width="65%" />
