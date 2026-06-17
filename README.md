@@ -7,6 +7,14 @@
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG" />
 </p>
 
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakhaira/adityakhaira/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakhaira/adityakhaira/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/adityakhaira/adityakhaira/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ### 👨‍💻 About Me
