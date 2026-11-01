@@ -3,8 +3,8 @@
 ### 🚀 Aspiring Software Engineer | Problem Solver | Data Structures Enthusiast
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG" />
+  <img src="https://shields.io" alt="LeetCode" />
+  <img src="https://shields.io" alt="GFG" />
 </p>
 
 ---
@@ -40,11 +40,11 @@
 ### 📊 LeetCode Progress & Contest Metrics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ADITYA_KHAIRA?ext=contest&theme=dark" alt="LeetCode Contest & Solved Stats" width="65%" />
+  <img src="https://jacoblin.cool" alt="LeetCode Contest & Solved Stats" width="65%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://glitch.me" alt="Profile Views" />
+  <img src="https://seeyoufarm.com" alt="Profile Views" />
 </p>
