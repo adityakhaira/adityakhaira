@@ -42,3 +42,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ADITYA_KHAIRA?ext=contest&theme=dark" alt="LeetCode Contest & Solved Stats" width="65%" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://glitch.me" alt="Profile Views" />
+</p>
