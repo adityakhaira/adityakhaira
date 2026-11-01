@@ -46,5 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <a href="https://github.com">
+    <img src="https://komarev.com" alt="Profile Views" />
+  </a>
 </p>
