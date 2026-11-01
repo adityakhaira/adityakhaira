@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <img src="https://seeyoufarm.com" alt="Profile Views" />
+  <img src="https://komarev.com" alt="Profile Views" />
 </p>
