@@ -37,16 +37,14 @@
 
 ---
 
-### 📊 LeetCode Progress & Contest Metrics
+### 📊 LeetCode Progress & Metrics
 
 <p align="center">
-  <img src="https://jacoblin.cool" alt="LeetCode Contest & Solved Stats" width="65%" />
+  <img src="https://vercel.app" alt="LeetCode Stats" width="65%" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://komarev.com" alt="Profile Views" />
-  </a>
+  <img src="https://vercel.app" alt="Profile Views" />
 </p>
